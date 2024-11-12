@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
+
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'silkscreen';
+    /* font-size: 25px; */
+    color: white;
+    background-color: black;
+    /* animation: animate 6s; */
+}
+
